@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.container {
+    width: 50%;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    margin: 5% auto;
+    padding: 2rem;
+    box-shadow: 8px 8px 8px 4px rgb(223, 190, 190);
+
+}
+#game p {
+    margin: 5px 0px 15px;
+}
+input {
+    padding: 10px;
+}
